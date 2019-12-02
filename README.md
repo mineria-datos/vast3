@@ -1,5 +1,7 @@
 # Vast 2019 Mini Challenge 3
 
+[Visualización](https://mineria-datos.github.io/vast3/dist)
+
 ## Instrucciones 
 
 * instalar [NodeJS](https://nodejs.org/en/download/)
